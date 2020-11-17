@@ -1,2 +1,3 @@
-# Course-Design-for-Java-Programming
-Java课程设计
+# 大二Java课程设计
+使用方法具体在报告里。  
+具体java版本以忘
